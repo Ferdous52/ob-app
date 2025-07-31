@@ -1,4 +1,4 @@
-streamlitstreamlit==1.35.0
+streamlit
 streamlit-webrtc==0.45.0
 onnxruntime==1.18.0
 opencv-python==4.9.0.80
